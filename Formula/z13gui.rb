@@ -1,8 +1,8 @@
 class Z13gui < Formula
   desc "GTK4 overlay GUI companion for z13ctl"
   homepage "https://github.com/dahui/z13gui"
-  url "https://github.com/dahui/z13gui/releases/download/v1.0.1/z13gui_1.0.1_linux_amd64.tar.gz"
-  sha256 "7d1fb216af90d8979e29cb4f301cc913a5dd0a192c217c6652c5cf34ea999a84"
+  url "https://github.com/dahui/z13gui/releases/download/v1.0.2/z13gui_1.0.2_linux_amd64.tar.gz"
+  sha256 "6363fa76d692c7b739e1c03360484927b923790bb6588ba37a178243c5a6f04d"
   license "Apache-2.0"
 
   depends_on :linux
