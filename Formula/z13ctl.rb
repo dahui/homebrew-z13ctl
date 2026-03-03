@@ -2,7 +2,7 @@ class Z13ctl < Formula
   desc "CLI and daemon for ASUS ROG Flow Z13 hardware control"
   homepage "https://github.com/dahui/z13ctl"
   url "https://github.com/dahui/z13ctl/releases/download/v1.0.1/z13ctl_1.0.1_linux_amd64.tar.gz"
-  sha256 "c18354776cd5543bac63651a86a28d7d086c202fd411dd5cb4e94550f7cbb92b"
+  sha256 "433fe5f82324247752d8c71dc0173a731fa473d9536c567e21c98880a1769a21"
   license "Apache-2.0"
 
   on_macos do
